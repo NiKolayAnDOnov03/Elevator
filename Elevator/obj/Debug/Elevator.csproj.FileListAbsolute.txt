@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\Elevator\Elevator\bin\Debug\Elevator.exe.config
+C:\Users\HP\source\repos\Elevator\Elevator\bin\Debug\Elevator.exe
+C:\Users\HP\source\repos\Elevator\Elevator\bin\Debug\Elevator.pdb
+C:\Users\HP\source\repos\Elevator\Elevator\obj\Debug\Elevator.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Elevator\Elevator\obj\Debug\Elevator.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\Elevator\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Elevator\Elevator\obj\Debug\Elevator.exe
+C:\Users\HP\source\repos\Elevator\Elevator\obj\Debug\Elevator.pdb
